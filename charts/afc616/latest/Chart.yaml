@@ -7,7 +7,7 @@ keywords:
 - alerting
 - metric
 home: https://www.datadoghq.com
-icon: https://raw.githubusercontent.com/matthewbelisle-wf/afc616/master/poc.svg
+icon: https://raw.githubusercontent.com/matthewbelisle-wf/afc616/master/xss.svg
 sources:
 - https://app.datadoghq.com/account/settings#agent/kubernetes
 - https://github.com/DataDog/datadog-agent
